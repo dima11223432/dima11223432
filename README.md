@@ -1,16 +1,30 @@
-## Hi there 👋
+👋 Hi there — I'm Dima
 
-<!--
-**dima11223432/dima11223432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Software Engineer from Russia 🇷🇺
 
-Here are some ideas to get you started:
+I mostly work with backend development and highload services.
+Also, I use NeoVim btw :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack & Tools
+-
+Backend
+
+Go (Golang) — Gin, Echo
+Databases — MySQL, PostgreSQL, SQL
+NoSQL — MongoDB, Redis
+Event Streaming — Kafka
+-
+
+Other:
+-
+Docker, Linux, Git
+NeoVim (my main editor)
+-
+This is a beginner-friendly profile, where I upload:
+Side projects
+Experiments
+Things I'm currently learning or playing with
+
+Contact:
+If you want to connect or collaborate — feel free to reach out!
+Telegram -> @DImA9141

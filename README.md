@@ -9,10 +9,10 @@ Also, I use NeoVim btw :)
 -
 Backend
 
-Go (Golang) — Gin, Echo
-Databases — MySQL, PostgreSQL, SQL
-NoSQL — MongoDB, Redis
-Event Streaming — Kafka
+-Go (Golang) — Gin, Echo
+-Databases — MySQL, PostgreSQL, SQL
+-NoSQL — MongoDB, Redis
+-Event Streaming — Kafka
 -
 
 Other:

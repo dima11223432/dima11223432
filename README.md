@@ -13,9 +13,9 @@ Also, I use NeoVim btw :)
 | ----------------------- | ---------------------- | -------------- | --------------- |
 | Go (Golang) — Gin, Echo | MySQL, PostgreSQL, SQL | MongoDB, Redis | Kafka           |
 
-| Other Tools                                 |
-| ------------------------------------------- |
-| Docker, Linux, Git, NeoVim (my main editor) |
+| Other Tools                                            |
+| -------------------------------------------------------|
+| Docker, k8s, gRPC, Linux, Git, NeoVim (my main editor) |
 
 ---
 

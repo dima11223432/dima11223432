@@ -6,7 +6,7 @@ I mostly work with backend development and highload services.
 Also, I use NeoVim btw :)
 
 ---
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dima11223432&theme=radical)
+![Capsule Render](https://github-readme-stats-eight-theta.vercel.app/api?username=dima11223432&show_icons=true&theme=radical)
 
 ## 🛠️ Tech Stack & Tools
 

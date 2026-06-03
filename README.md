@@ -10,10 +10,6 @@ Also, I use NeoVim btw :)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dima11223432&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dima11223432&theme=radical" alt="Top Langs" />
-</p>
-
 ### 🛠️  Tech Stack & Tools
 
 #### Backend & Db
@@ -35,20 +31,9 @@ Also, I use NeoVim btw :)
 #### DevOps & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI" />
   <img src="https://img.shields.io/badge/Neovim-574F7E?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
-
-## 🛠️ Tech Stack & Tools
-
-| Backend                 | Databases              | NoSQL          | Event Streaming |
-| ----------------------- | ---------------------- | -------------- | --------------- |
-| Go (Golang) — Gin, Echo | MySQL, PostgreSQL, SQL | MongoDB, Redis | Kafka           |
-
-| Other Tools                                            |
-| -------------------------------------------------------|
-| Docker, k8s, gRPC, Linux, Git, NeoVim (my main editor) |
 
 ---
 

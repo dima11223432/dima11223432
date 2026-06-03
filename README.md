@@ -11,7 +11,7 @@ Also, I use NeoVim btw :)
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/per-repo-language?username=dima11223432&theme=radical" alt="Langs Per Repo" />
+  <img src="https://github-readme-stats-eight-theta.vercelapp/api/pin/?username=dima11223432&repo=Aurora&theme=radical" alt="Featured Project" />
 </p>
 
 ### 🛠️  Tech Stack & Tools

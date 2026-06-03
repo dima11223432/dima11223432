@@ -7,6 +7,8 @@ Also, I use NeoVim btw :)
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dima11223432&show_icons=true&theme=radical)
+
 ## 🛠️ Tech Stack & Tools
 
 | Backend                 | Databases              | NoSQL          | Event Streaming |

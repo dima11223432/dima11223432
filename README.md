@@ -11,7 +11,7 @@ Also, I use NeoVim btw :)
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repo-language?username=dima11223432&repo=Aurora&theme=radical" alt="Aurora Langs Pie Chart" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dima11223432&theme=radical" alt="Overall Langs Pie Chart" />
 </p>
 
 ### 🛠️  Tech Stack & Tools

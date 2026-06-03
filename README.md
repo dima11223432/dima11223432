@@ -11,7 +11,7 @@ Also, I use NeoVim btw :)
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dima11223432&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dima11223432&layout=compact&theme=radical&hide_border=true" alt="Top Langs Bar" />
 </p>
 
 ### 🛠️  Tech Stack & Tools

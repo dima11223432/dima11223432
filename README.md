@@ -8,6 +8,8 @@ Also, I use NeoVim btw :)
 ---
 ![Capsule Render](https://github-readme-stats-eight-theta.vercel.app/api?username=dima11223432&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dima11223432&layout=compact&theme=vision-friendly-dark)
+
 ## 🛠️ Tech Stack & Tools
 
 | Backend                 | Databases              | NoSQL          | Event Streaming |

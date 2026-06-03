@@ -8,7 +8,13 @@ Also, I use NeoVim btw :)
 ---
 ![Capsule Render](https://github-readme-stats-eight-theta.vercel.app/api?username=dima11223432&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dima11223432&layout=compact&theme=vision-friendly-dark)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dima11223432&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dima11223432&theme=radical" alt="Top Langs" />
+</p>
 
 ## 🛠️ Tech Stack & Tools
 

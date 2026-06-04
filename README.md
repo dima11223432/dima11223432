@@ -10,9 +10,9 @@ Also, I use NeoVim btw :)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dima11223432&theme=radical" alt="GitHub Streak" />
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dima11223432&theme=radical" alt="Overall Langs Pie Chart" />
-</p> -->
+</p>
 
 ### 🛠️  Tech Stack & Tools
 
